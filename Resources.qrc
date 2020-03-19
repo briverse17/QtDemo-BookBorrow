@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>kmin-logo.png</file>
+        <file>a-brief-history-of-time.jpg</file>
+        <file>hanh-trang-lap-trinh-tac-gia-vu-cong-tan-tai.jpg</file>
+        <file>python-machine-learning.jpg</file>
+        <file>the-art-of-programming-donald-knuth.jpg</file>
+    </qresource>
+</RCC>
